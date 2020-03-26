@@ -10,7 +10,7 @@ This is a strictly apolitical group of volunteers geographically distributed ove
 To connect with us please fill the form: 
 हामी सँग जोडिनको लागी तलको फारम भर्नुहोला:
 
-[यो फारम भर्नुहोला - Please fill this form](volunteer.healthynepal.org) [...] https://forms.gle/yLksqSSiGGoKoM9T6)
+[यो फारम भर्नुहोला - Please fill this form](http://volunteer.healthynepal.org) [...] https://forms.gle/yLksqSSiGGoKoM9T6)
 
 
 ### What are the roles and responsbility as a volunteer ? स्वयंसेवकहरुका काम र कर्तब्य के के हुन?

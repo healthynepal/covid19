@@ -58,7 +58,7 @@ There is no much difference in a core group or any ordinary member other than th
 कोर समुह र सदस्यमा खासै कुनै फरक छैन। कोर समुहमा आवश्यक परे भेट्न सक्ने र धेरै भन्दा धेरै समय दिन सक्ने साथिहरु मात्र जोडिनुहोला।
 
 Email us at (हामीलाई यस्मा ईमेल गर्न सक्नु हुन्छ) : 
-[ncov2volunteer at gmail.com](ncov2volunteer@gmail.com)
+[ncov2volunteer at gmail.com](mailto:ncov2volunteer@gmail.com)
 
 
 

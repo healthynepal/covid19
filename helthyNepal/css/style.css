@@ -5,20 +5,27 @@ body {
   height: auto;
 	width: 200px;
 }
-.bg{
-  background-image: url(Images/covid.png);
-}
-.text-blue{
-  color: #1a79d2;
-}
-.text-blue-50{
-  color: #1a79d2;
+.blue-txt{
+    color: #1a79d2;
 }
 .fixed-top {
     position: absolute;
     top: 0;
     right: 0;
     left: 0;
+}
+.jumbotron{
+  background: url('../Images/covid.png');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  }
+  .card-img-top {
+    width: 100%;
+    height: 20vw;
+    object-fit: cover;
 }
 /* Responsive Image Grid */
 .row {

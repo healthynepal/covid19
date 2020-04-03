@@ -1,0 +1,123 @@
+#navbar-top-main {
+    height: 5em;
+}
+
+.navbar-nav {
+    padding-top: 1em;
+}
+
+.d-none {
+    display: inline-block!important;
+}
+
+.jumbotron {
+    width: 98%;
+    top: -5%;
+    left: -1rem;
+    border-bottom-left-radius: 3rem;
+    border-top-right-radius: 3rem;
+    transform: rotate(-3deg);
+    background: rgb(19,7,232);
+    background: linear-gradient(90deg, rgba(19,7,232,1) 0%, rgba(13,9,121,1) 37%, rgba(255,0,247,1) 100%);
+    color: white;
+}
+
+.thumbnail {
+    filter:drop-shadow(0 0.2rem 0.2rem gray);
+}
+
+#jumbotron-container {
+    max-width: 960px;
+    transform: rotate(+3deg);
+    text-align: left;
+}
+
+#jumbotron-bg {
+    top: -40%;
+    left: -1rem;
+    width: 130%;
+    height: 124%;
+    -webkit-transform: rotate(-7deg);
+    -ms-transform: rotate(-7deg);
+    transform: rotate(-7deg);
+    border-bottom-left-radius: 3rem;
+    position: relative;
+}
+
+.rounded-pill {
+    border-radius: 50rem !important;
+}
+
+.btn-white {
+    color: #273444;
+    background-color: #FFF;
+    border-color: #FFF;
+    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15);
+    }
+
+.sub-heading {
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-clip: border-box;
+    border: none;
+    border-radius: 8rem;
+    border-bottom-right-radius: 1rem;
+    padding-left: 1em;
+}
+
+.card-cyan {
+    background-color: rgba(0,255,255,0.3);
+}
+
+.card-purple {
+    background-color: rgba(255, 134, 255, 0.3);
+}
+
+.card-green {
+    background-color: rgba(108,111,246, 0.3);
+}
+
+.thumbnail {
+    width: 280px;
+}
+
+#footer-img {
+    height: 92px;
+}
+
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	background-color:#FFFF;
+	color: #262626;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 2px 3px #999;
+}
+
+.float-text{
+    margin-top:8px;
+    font-size: 30px;
+}
+
+.float-twitter{
+    right:40px;
+}
+
+.float-facebook{
+    right:120px;
+}
